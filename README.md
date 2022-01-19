@@ -1,5 +1,5 @@
 # gmx-cyclize
-cyclize peptides using glycindel scaffolding method
+cyclize peptides using glycindel scaffolding method $\alpha$
 
 ## pre-requite
 * GROMACS
